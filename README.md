@@ -16,5 +16,9 @@ through, and a README a person or an AI can read.
    [Open it](https://re4mat-mp.github.io/claude-setup-guide/).
 2. 🏭 **The factory**: how I run the big jobs. A script cuts the work, agents read in parallel, code checks every
    answer. [See it run](https://re4mat-mp.github.io/claude-setup-guide/factory/).
+3. 🛠️ [**agent-dashboard**](https://github.com/re4mat-mp/agent-dashboard): a board to watch a crew of agents grow,
+   with one Python file. Rebuilt with an invented crew. [Open it](https://re4mat-mp.github.io/agent-dashboard/).
+4. 📖 [**travel-book-method**](https://github.com/re4mat-mp/travel-book-method): a Kindle travel book written with
+   Claude, the method shown on an invented trip. [Turn the pages](https://re4mat-mp.github.io/travel-book-method/).
 
 **▶ [Open the portfolio](https://re4mat-mp.github.io/)**: every project as a page you can click through.
