@@ -1,3 +1,5 @@
+<a href="https://re4mat-mp.github.io/"><img src="welcome.gif" alt="Hi, I'm Matias. I build with Claude Code. Open the portfolio: re4mat-mp.github.io" width="100%"></a>
+
 ### Hi, I'm Matias 👋
 
 I build with Claude Code: small teams of agents with one craft each, reviewers that never wrote the code they
@@ -14,3 +16,5 @@ through, and a README a person or an AI can read.
    [Open it](https://re4mat-mp.github.io/claude-setup-guide/).
 2. 🏭 **The factory**: how I run the big jobs. A script cuts the work, agents read in parallel, code checks every
    answer. [See it run](https://re4mat-mp.github.io/claude-setup-guide/factory/).
+
+**▶ [Open the portfolio](https://re4mat-mp.github.io/)**: every project as a page you can click through.
