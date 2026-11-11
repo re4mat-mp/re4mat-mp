@@ -4,11 +4,13 @@ I build with Claude Code: small teams of agents with one craft each, reviewers t
 review, and guards that keep a person in the loop before anything ships.
 
 I came to this from operations, not engineering, so I learned most of it by getting it wrong first. I write down
-what I learn, so you can skip some of the mistakes.
+what I learn, so you can skip some of the mistakes. Every project here opens: each one has a page you can click
+through, and a README a person or an AI can read.
 
-**Start here**
+**The pieces, in order**
 
-- 🧭 [**claude-setup-guide**](https://github.com/re4mat-mp/claude-setup-guide): my Claude Code setup and the habits
-  behind it. Agents, reviewers, guard hooks, and a memory that loads whole. Try it in 10 minutes.
-- 🏡 [**casa-3d**](https://github.com/re4mat-mp/casa-3d): a house you can walk through in the browser, built from the
-  architect's floor plans. [Open it](https://re4mat-mp.github.io/casa-3d/).
+1. 🧭 [**claude-setup-guide**](https://github.com/re4mat-mp/claude-setup-guide): my Claude Code setup and the habits
+   behind it. Agents, reviewers, guard hooks, and a memory that loads whole.
+   [Open it](https://re4mat-mp.github.io/claude-setup-guide/).
+2. 🏭 **The factory**: how I run the big jobs. A script cuts the work, agents read in parallel, code checks every
+   answer. [See it run](https://re4mat-mp.github.io/claude-setup-guide/factory/).
