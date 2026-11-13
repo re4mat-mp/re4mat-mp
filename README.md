@@ -24,5 +24,7 @@ through, and a README a person or an AI can read.
    through in the browser (the pages are in Spanish). [Walk the house](https://re4mat-mp.github.io/casa-3d/).
 6. 航海 [**grand-line**](https://github.com/re4mat-mp/grand-line): a Game Boy-style RPG where every pixel is drawn by
    code, playable in the browser. An unofficial fan game. [Play it](https://re4mat-mp.github.io/grand-line/).
+7. 音楽 [**profe-push**](https://github.com/re4mat-mp/profe-push): a music class to practise with an Ableton Push 3
+   in your hands. Every sound is made in the browser (the class is in Spanish). [Open the class](https://re4mat-mp.github.io/profe-push/).
 
 **▶ [Open the portfolio](https://re4mat-mp.github.io/)**: every project as a page you can click through.
